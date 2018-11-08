@@ -1,0 +1,3 @@
+services:
+  drakkar_core.helper:
+    class: Drupal\drakkar_core\CoreHelper
